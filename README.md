@@ -1,16 +1,15 @@
-### Hi there 👋
+### Oi!! seja bem vindo ao meu perfil 💜
 
-<!--
-**Thiago-gCosta/Thiago-gCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Thiago Costa.
+- Estou cursando o primeiro ano em informática no IFRS 💻
+- Atualmente estou estudando pela plataforma ![Alura](https://www.alura.com.br), na area de FrontEnd
+- Encontro-me aperfeiçoando JavaScript, e tendo como plano aprender também HTML e CSS🌙
+- Por meio da plataforma irei compartilhar projetos e me organizar academicamente
 
-Here are some ideas to get you started:
+### Para entrar em contato:
+📷 @thiago_costa.07
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 2023302955@aluno.riogrande.ifrs.edu.br
+
+![](https://media.tenor.com/cdgu_rxP5vwAAAAM/cat-hiss.gif)
+
