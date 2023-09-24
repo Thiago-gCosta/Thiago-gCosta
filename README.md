@@ -2,7 +2,7 @@
 
 Meu nome é Thiago Costa.
 - Estou cursando o primeiro ano em informática no IFRS 💻
-- Atualmente estou estudando pela plataforma ![Alura](https://www.alura.com.br), na area de FrontEnd
+- Atualmente estou estudando pela plataforma [Alura](https://www.alura.com.br), na area de FrontEnd
 - Encontro-me aperfeiçoando JavaScript, e tendo como plano aprender também HTML e CSS🌙
 - Por meio da plataforma irei compartilhar projetos e me organizar academicamente
 
