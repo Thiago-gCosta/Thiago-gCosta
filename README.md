@@ -15,3 +15,9 @@ Meu nome é Thiago Costa.
 
 ![](https://media.tenor.com/cdgu_rxP5vwAAAAM/cat-hiss.gif)
 
+### Certificados:
+
+Olimpíada Brasileira de Informática (OBI2023), Modalidade Programação Nível 1:
+
+Cultura Maker: A Impressão 3D Presente na Vida Cotidiana:
+[-->](http://www.nti.riogrande.ifrs.edu.br/sistemas/evento/index.php?option=com_valida&cid=654bc08dea1dd6086)
