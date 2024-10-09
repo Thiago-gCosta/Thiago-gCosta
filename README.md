@@ -13,7 +13,7 @@ Meu nome é Thiago Costa.
 
 📫 2023302955@aluno.riogrande.ifrs.edu.br
 
-![](https://media.tenor.com/cdgu_rxP5vwAAAAM/cat-hiss.gif)
+![](https://olimpiada.ic.unicamp.br/certificados/verifica/2023:5fc94c1296c2e87ce0dee3a8/)
 
 ### Certificados:
 
