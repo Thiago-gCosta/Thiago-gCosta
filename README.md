@@ -19,6 +19,6 @@ Meu nome é Thiago Costa.
 
 [Olimpíada Brasileira de Informática (OBI2023), Modalidade Programação Nível 1:](https://olimpiada.ic.unicamp.br/certificados/2023/obi/compet/77437/)
 
-[Olimpíada Brasileira de Informática (OBI2024), Modalidade Programação Nível 12:](https://olimpiada.ic.unicamp.br/certificados/2023/obi/compet/77437/)
+[Olimpíada Brasileira de Informática (OBI2024), Modalidade Programação Nível 2:](https://olimpiada.ic.unicamp.br/certificados/2023/obi/compet/77437/)
 
 [Cultura Maker: A Impressão 3D Presente na Vida Cotidiana:](http://www.nti.riogrande.ifrs.edu.br/sistemas/evento/index.php?option=com_valida&cid=654bc08dea1dd6086)
